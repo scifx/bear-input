@@ -4,7 +4,7 @@
 #SingleInstance ignore
 
 ;设置托盘图标，bear.ico就是你可以替换自己的图标
-Menu,tray,icon,bear.ico,,1
+;Menu,tray,icon,bear.ico,,1
 ;设置托盘提示,软件名字显示
 Menu,tray,Tip,小熊注音V1.0
 
